@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\stack-heap,string\StackHeapString\StackHeapString\bin\Debug\net6.0\StackHeapString.exe
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\stack-heap,string\StackHeapString\StackHeapString\bin\Debug\net6.0\StackHeapString.deps.json
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\stack-heap,string\StackHeapString\StackHeapString\bin\Debug\net6.0\StackHeapString.runtimeconfig.json
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\stack-heap,string\StackHeapString\StackHeapString\bin\Debug\net6.0\StackHeapString.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\stack-heap,string\StackHeapString\StackHeapString\bin\Debug\net6.0\StackHeapString.pdb
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\stack-heap,string\StackHeapString\StackHeapString\obj\Debug\net6.0\StackHeapString.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\stack-heap,string\StackHeapString\StackHeapString\obj\Debug\net6.0\StackHeapString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\stack-heap,string\StackHeapString\StackHeapString\obj\Debug\net6.0\StackHeapString.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\stack-heap,string\StackHeapString\StackHeapString\obj\Debug\net6.0\StackHeapString.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\stack-heap,string\StackHeapString\StackHeapString\obj\Debug\net6.0\StackHeapString.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\stack-heap,string\StackHeapString\StackHeapString\obj\Debug\net6.0\StackHeapString.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\stack-heap,string\StackHeapString\StackHeapString\obj\Debug\net6.0\refint\StackHeapString.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\stack-heap,string\StackHeapString\StackHeapString\obj\Debug\net6.0\StackHeapString.pdb
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\stack-heap,string\StackHeapString\StackHeapString\obj\Debug\net6.0\StackHeapString.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\stack-heap,string\StackHeapString\StackHeapString\obj\Debug\net6.0\ref\StackHeapString.dll
